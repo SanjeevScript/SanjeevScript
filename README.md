@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SanjevScript
-- 👀 I’m interested in JS and all stuff computers
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on not much now, but when I learn Python
+- 👀 I’m interested in all things coding
+- 🌱 I’m currently learning ReactJS
+- 💞️ I’m looking to collaborate on not much now, but when I learn learn ReactJS
 - 📫 How to reach me... Contact me @SanjeevScript on Github or sanjeevhacker2@gmail.com
 
 <!---
