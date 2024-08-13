@@ -7,6 +7,10 @@ I'm a Proffesional Debugger(programmer) with experience in creating bugs. I love
 - [SCSS]
 - [TypeScript]
 
+### 🔭 Current Projects
+- [Project 1](https://github.com/Adityon/Tetris-4.0) - A TypeScript Tetris Game
+
+
 ### 📈 My Most Used Languages
 ![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjeevScript&layout=compact)
 
