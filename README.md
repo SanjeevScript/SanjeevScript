@@ -1,14 +1,15 @@
-- 👋 Hi, I’m @SanjevScript
-- 💻 I’m interested in all things coding
-- 🌱 I’m currently learning ReactJS
-- 🧑‍💻 I’m looking to collaborate on not much now, but when I learn learn ReactJS
-- 📫 How to reach me... Contact me @SanjeevScript on Github or sanjeevhacker2@gmail.com
+# 👋 Hi there! I'm [Sanjeev]
 
-<!---
-SanjevScript/SanjevScript is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+I'm a [Proffesional Debugger(programmer)] with experience in [creating bugs]. I love working on [websites]. 
 
-```py
-print("Let the coding begin!")
-```
+### 🌱 I'm Currently Learning
+- [SCSS]
+- [TypeScript]
+
+### 📈 My Most Used Languages
+![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjeevSceipt&layout=compact)
+
+### 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SanjeevScript&show_icons=true&hide_title=true)
+
