@@ -1,7 +1,7 @@
-# 👋 Hi there! I'm [Sanjeev]
+# 👋 Hi there! I'm Sanjeev
 
 ## About Me
-I'm a [Proffesional Debugger(programmer)] with experience in [creating bugs]. I love working on [websites]. 
+I'm a Proffesional Debugger(programmer) with experience in creating bugs. I love working on websites. 
 
 ### 🌱 I'm Currently Learning
 - [SCSS]
