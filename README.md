@@ -11,7 +11,7 @@ I'm a proffesional debugger(programmer) with experience in creating bugs. I like
 - [Tetris](https://github.com/Adityon/Tetris-4.0) - A TypeScript Tetris Game(Co-partner: Adityon) - WIP
 
 ### 💻 My Favourite Project(s)
-- [Minesweeper](https://github.com/SanjeevScript/Minesweeper-Py) - A minesweeper game that you coan play from the CLI
+- [Minesweeper](https://github.com/SanjeevScript/Minesweeper-Py) - A minesweeper game that you can play from the CLI
 
 
 ### 📈 My Most Used Languages
