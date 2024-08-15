@@ -4,8 +4,8 @@
 I'm a proffesional debugger(programmer) with experience in creating bugs. I like making games and websites, ig.
 
 ### 🌱 I'm Currently Learning
-- [SCSS]
-- [TypeScript]
+- SCSS
+- TypeScript
 
 ### 🔭 Current Projects
 - [Tetris](https://github.com/Adityon/Tetris-4.0) - A TypeScript Tetris Game(Co-partner: Adityon) - WIP
