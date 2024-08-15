@@ -12,6 +12,7 @@ I'm a proffesional debugger(programmer) with experience in creating bugs. I like
 
 ### 💻 My Favourite Project(s)
 - [Minesweeper](https://github.com/SanjeevScript/Minesweeper-Py) - A minesweeper game that you can play from the CLI
+- [PyJokes Reddit Bot](https://github.com/SanjeevScript/pyjokes-reddit-bot) - A Reddit bot thats posts bad jokes to the Programming SubReddit.
 
 
 ### 📈 My Most Used Languages
