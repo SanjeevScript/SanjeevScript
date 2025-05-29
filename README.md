@@ -1,14 +1,14 @@
 # 👋 Hi there! I'm Sanjeev
 
 ## About Me
-I'm a proffesional debugger(programmer) with experience in creating bugs. I like making all sorts of things with code uwu.
+I'm a proffesional debugger(programmer) with experience in creating bugs. I like making all sorts of things with code.
 
 ### 🌱 I'm Currently Learning
 - SCSS
 - TypeScript
 
 ### 🔭 Current Projects
-- [Tetris](https://github.com/Adityon/Tetris-4.0) - A TypeScript Tetris Game(Co-partner: Adityon) - WIP[DISCONTINUED]
+- Nothing
 
 ### 💻 My Favourite Project(s)
 - [Minesweeper](https://github.com/SanjeevScript/Minesweeper-Py) - A minesweeper game that you can play from the CLI
